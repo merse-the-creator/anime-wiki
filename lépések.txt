@@ -1,0 +1,5 @@
+Nyitsz egy terminált
+Beírni a következő utasításokat:
+    git add .
+    git commit -m "VALAMI UZENET"
+    git push
